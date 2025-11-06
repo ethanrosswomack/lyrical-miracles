@@ -1,0 +1,98 @@
+name: Jekyll site CI
+
+on:
+  push:
+    branches: [ "master" ]
+  pull_request:
+    branches: [ "master" ]
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v4
+    - name: Build the site in the jekyll/builder container
+      run: |
+        docker run \
+        -v ${{ github.workspace }}:/srv/jekyll -v ${{ github.workspace }}/_site:/srv/jekyll/_site \
+        jekyll/builder:latest /bin/bash -c "chmod -R 777 /srv/jekyll && jekyll build --future"
+            - name: github-action-auto-format
+             - name: Paperspace Deploy
+  # You may pin to the exact commit or the version.
+  # uses: Paperspace/deploy-action@e19c92caa3220cff5d5bf62f86832c0d87745612
+  uses: Paperspace/deploy-action@v1.4
+  with:
+    # Paperspace API Key. Defaults to env.PAPERSPACE_API_KEY.
+    apiKey: # optional
+    # Project ID that the deployment lives under.
+    projectId: HAWK-ARS-00
+    # Relative path to configuration file to deploy.
+    configPath: # optional
+    # Optional container image to use for the deployment.
+    image: # optional
+
+                      - name: SQLite Cloud - docs search
+  # You may pin to the exact commit or the version.
+  # uses: sqlitecloud/docsearch-action@f3c6771bfa8f770cd0ca621587a4bd8fe92e8049
+  uses: sqlitecloud/docsearch-action@v6
+  with:
+    # The SQLite Cloud project connection string.
+    project-string: 
+    # Your website's documentation base url.
+    base-url: 
+    # The name of the database to use on SQLite Cloud, just remeber to create first a database on your project!
+    database: 
+    # The path of the markdown files, by default it will parse every .md/.mdx file recursively starting from the working directory.
+    path: # optional, default is $(pwd)
+    # If you want to remove html elements from the search set this to true.
+    strip-html: # optional
+    # If you want to remove jsx elements from the search set this to true.
+    strip-jsx: # optional
+    # If you want to avoid redundancy of your markdown titles in the search set this to true.
+    strip-md-titles: # optional
+    # If you use a front matter and you want the action to convert it to json and send it to the cloud make this true.
+    use-front-matter: # optional
+    # Use the slug in the header as the path instead of the relative one.
+    path-using-slug: # optional
+                      - name: Deploy React to GitHub Pages
+  # You may pin to the exact commit or the version.
+  # uses: bitovi/github-actions-react-to-github-pages@4cf343888989e21112bce7e59156242a0e1defb3
+  uses: bitovi/github-actions-react-to-github-pages@v1.2.4
+  with:
+    # Specifies if this action should checkout the code
+    checkout: # optional, default is true
+    # Partially clone against a given filter. Overrides checkout-sparse-checkout if set. maps to actions/checkout inputs.checkout-filter
+    checkout-filter: # optional
+    # Do a sparse checkout on given patterns. Each pattern should be separated with new lines. maps to actions/checkout inputs.sparse-checkout
+    checkout-sparse-checkout: # optional
+    # Specifies whether to use cone-mode when doing a sparse checkout. maps to actions/checkout inputs.sparse-checkout-cone-mode
+    checkout-sparse-checkout-cone-mode: # optional, default is true
+    # Specifies the path of the static assets after building
+    path: # optional, default is dist
+    # Specifies the command to run the installation.
+    install_command: # optional, default is npm ci
+    # Specifies the command to run after the install command for the build
+    build_command: # optional, default is npm run build
+    # Specifies if the action should cache npm dependencies.
+    caching: # optional
+                - name: Deploy Ghost Theme
+  # You may pin to the exact commit or the version.
+  # uses: TryGhost/action-deploy-theme@a0ee1147d15641db25681e54549c4db9a53c2629
+  uses: TryGhost/action-deploy-theme@v1.6.6
+  with:
+    # Ghost Admin API Url
+    api-url: 
+    # Ghost Admin API Key
+    api-key: 
+    # Files or folders to exclude (space-separated list)
+    exclude: # optional
+    # A custom theme name that overrides the default name in package.json
+    theme-name: # optional
+    # Path to a built zip file. If this is included, the `exclude` and `theme-name` options are ignored
+    file: # optional
+    # A custom directory to zip when a theme is in a subdirectory
+    working-directory: # optional
+          
+          
