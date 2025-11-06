@@ -10,23 +10,23 @@ This archive captures the Full Disclosure, Behold A Pale Horse, and MILABS opera
 
 | Album | Title | Link |
 |:------|:------|:-----|
-| Full Disclosure | Swordfish | [01_swordfish.md](01_swordfish.md) |
-| Full Disclosure | Mic Check | [02_mic_check.md](02_mic_check.md) |
-| Full Disclosure | Shakur | [03_shakur.md](03_shakur.md) |
-| Full Disclosure | Last One Left | [04_last_one_left.md](04_last_one_left.md) |
-| Full Disclosure | Full Disclosure | [05_full_disclosure.md](05_full_disclosure.md) |
-| Full Disclosure | Lifted | [06_lifted.md](06_lifted.md) |
-| Full Disclosure | F*ck Society | [07_fuck_society.md](07_fuck_society.md) |
-| Full Disclosure | Ashes | [08_ashes.md](08_ashes.md) |
-| Full Disclosure | Haunted | [09_haunted.md](09_haunted.md) |
-| Full Disclosure | Monumental | [10_monumental.md](10_monumental.md) |
-| Full Disclosure | Trafficked | [11_trafficked_web.md](11_trafficked_web.md) |
-| Full Disclosure | Hocus Pocus | [12_hocus_pocus.md](12_hocus_pocus.md) |
-| Full Disclosure | Syntax | [13_syntax.md](13_syntax.md) |
-| Full Disclosure | Stay Real | [14_stay_real.md](14_stay_real.md) |
-| Full Disclosure | The Story of Our Former Glory | [15_the_story_of_our_former_glory.md](15_the_story_of_our_former_glory.md) |
-| Behold A Pale Horse | Warning Shots | [01_warning_shots.md](01_warning_shots.md) |
-| Behold A Pale Horse | William Cooper | [02_william_cooper.md](02_william_cooper.md) |
+| Full Disclosure | Swordfish | [01_swordfish.md](02_mixtape_sessions/01_full_disclosure/01_swordfish.md) |
+| Full Disclosure | Mic Check | [02_mic_check.md](02_mixtape_sessions/01_full_disclosure/02_mic_check.md) |
+| Full Disclosure | Shakur | [03_shakur.md](02_mixtape_sessions/01_full_disclosure/03_shakur.md) |
+| Full Disclosure | Last One Left | [04_last_one_left.md](02_mixtape_sessions/01_full_disclosure/04_last_one_left.md) |
+| Full Disclosure | Full Disclosure | [05_full_disclosure.md](02_mixtape_sessions/01_full_disclosure/05_full_disclosure.md) |
+| Full Disclosure | Lifted | [06_lifted.md](02_mixtape_sessions/01_full_disclosure/06_lifted.md) |
+| Full Disclosure | F*ck Society | [07_fuck_society.md](02_mixtape_sessions/01_full_disclosure/07_fuck_society.md) |
+| Full Disclosure | Ashes | [08_ashes.md](02_mixtape_sessions/01_full_disclosure/08_ashes.md) |
+| Full Disclosure | Haunted | [09_haunted.md](02_mixtape_sessions/01_full_disclosure/09_haunted.md) |
+| Full Disclosure | Monumental | [10_monumental.md](02_mixtape_sessions/01_full_disclosure/10_monumental.md) |
+| Full Disclosure | Trafficked | [11_trafficked_web.md](02_mixtape_sessions/01_full_disclosure/11_trafficked_web.md) |
+| Full Disclosure | Hocus Pocus | [12_hocus_pocus.md](02_mixtape_sessions/01_full_disclosure/12_hocus_pocus.md) |
+| Full Disclosure | Syntax | [13_syntax.md](02_mixtape_sessions/01_full_disclosure/13_syntax.md) |
+| Full Disclosure | Stay Real | [14_stay_real.md](02_mixtape_sessions/01_full_disclosure/14_stay_real.md) |
+| Full Disclosure | The Story of Our Former Glory | [15_the_story_of_our_former_glory.md](01_full_disclosure/15_the_story_of_our_former_glory.md) |
+| Behold A Pale Horse | Warning Shots | [01_warning_shots.md](02_mixtape_sessions/02_behold_a_pale_horse/01_warning_shots.md) |
+| Behold A Pale Horse | William Cooper | [02_william_cooper.md](02_behold_a_pale_horse/02_william_cooper.md) |
 | Behold A Pale Horse | Kamikaze | [03_kamikaze.md](03_kamikaze.md) |
 | Behold A Pale Horse | Whistleblower | [04_whistleblower.md](04_whistleblower.md) |
 | Behold A Pale Horse | Superstitions | [05_superstitions.md](05_superstitions.md) |
