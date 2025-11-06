@@ -40,7 +40,7 @@ Phase II is broken into two main firestorms: **Malicious EP** and **Shadow Banne
 
 ---
 
-[Back to Main Arsenal Index](../index.md)
+[Back to Main Arsenal Index](../Main_Arsenal_Index.md)
 
 ---
 
