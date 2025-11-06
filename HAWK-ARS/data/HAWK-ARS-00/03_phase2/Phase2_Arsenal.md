@@ -14,7 +14,7 @@ Phase II is broken into two main firestorms: **Malicious EP** and **Shadow Banne
 | Malicious EP | Gang Shit | [02_gang_shit.md](04_malicious/02_gang_shit.md) |
 | Malicious EP | The Motherfucking Problem | [03_the_motherfucking_problem.md](04_malicious/03_the_motherfucking_problem.md) |
 | Malicious EP | I'm Him | [04_im_him.md](04_malicious/04_im_him.md) |
-| Shadow Banned | Spiteful Poetry | [00_Malicious_Arsenal.md](04_malicious/00_Malicious_Arsenal.md) |
+| Malicious EP | Malicious Arsenal | [00_Malicious_Arsenal.md](04_malicious/00_Malicious_Arsenal.md) |
 | Shadow Banned | Psychological Warfare | [01_psychological_warfare.md](05_shadow_banned/01_psychological_warfare.md) |
 | Shadow Banned | Down The Rabbit Hole | [02_down_the_rabbit_hole.md](05_shadow_banned/02_down_the_rabbit_hole.md) |
 | Shadow Banned | Domestic Terrorist | [03_domestic_terrorist.md](05_shadow_banned/03_domestic_terrorist.md) |
