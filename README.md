@@ -301,6 +301,20 @@ HAWK-ARS/
 
 ---
 
+## Archive Index
+*(quick navigation for those exploring the files)*
+
+- [Lyrics](HAWK-ARS/lyrics/)
+- [Audio](HAWK-ARS/audio/)
+- [Images](HAWK-ARS/images/)
+- [Data & Catalogs](HAWK-ARS/data/)
+- [Relentless Track Breakdown →](HAWK-ARS/lyrics/relentless.md)
+
+
+
+
+
+
 >>Title: Hawk Eye The Rapper: The Voice of a Generation Seeking Truth and Transformation
 
 Introduction
