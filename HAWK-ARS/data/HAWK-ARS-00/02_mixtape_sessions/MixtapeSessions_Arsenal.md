@@ -10,9 +10,9 @@ This archive captures the Full Disclosure, Behold A Pale Horse, and MILABS opera
 
 | Album | Title | Link |
 |:------|:------|:-----|
-| Full Disclosure | Swordfish | [01_swordfish.md](02_mixtape_sessions/01_full_disclosure/01_swordfish.md) |
-| Full Disclosure | Mic Check | [02_mic_check.md](02_mixtape_sessions/01_full_disclosure/02_mic_check.md) |
-| Full Disclosure | Shakur | [03_shakur.md](02_mixtape_sessions/01_full_disclosure/03_shakur.md) |
+| Full Disclosure | Swordfish | [01_swordfish.md](HAWK-ARS/data/HAWK-ARS-00/02_mixtape_sessions/01_full_disclosure/01_swordfish.md) |
+| Full Disclosure | Mic Check | [02_mic_check.md](HAWK-ARS/data/HAWK-ARS-00/02_mixtape_sessions/01_full_disclosure/02_mic_check.md) |
+| Full Disclosure | Shakur | [03_shakur.md](HAWK-ARS/data/HAWK-ARS-00/02_mixtape_sessions/01_full_disclosure/03_shakur.md) |
 | Full Disclosure | Last One Left | [04_last_one_left.md](02_mixtape_sessions/01_full_disclosure/04_last_one_left.md) |
 | Full Disclosure | Full Disclosure | [05_full_disclosure.md](02_mixtape_sessions/01_full_disclosure/05_full_disclosure.md) |
 | Full Disclosure | Lifted | [06_lifted.md](02_mixtape_sessions/01_full_disclosure/06_lifted.md) |
