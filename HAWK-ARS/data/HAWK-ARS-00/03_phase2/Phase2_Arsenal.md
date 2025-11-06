@@ -10,7 +10,7 @@ Phase II is broken into two main firestorms: **Malicious EP** and **Shadow Banne
 
 | Album | Title | Link |
 |:------|:------|:-----|
-| Malicious EP | Malicious | [01-malicious.md](01-malicious.md) |
+| Malicious EP | Malicious | [01-malicious.md](04_malicious/01-malicious.md) |
 | Malicious EP | Gang Shit | [02_gang_shit.md](02_gang_shit.md) |
 | Malicious EP | The Motherfucking Problem | [03_the_motherfucking_problem.md](03_the_motherfucking_problem.md) |
 | Malicious EP | I'm Him | [04_im_him.md](04_im_him.md) |
